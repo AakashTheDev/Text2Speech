@@ -1,5 +1,6 @@
 # Text2Speech
 It is an simple text to speech application using React JS....
 
+Note: It is not responsive in mobile screens...
 
 Live URL: <a href="https://t2v.netlify.app/" target="_blank">Click Here...</a>
